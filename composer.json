@@ -1,10 +1,10 @@
 {
-    "name": "dachcom-digital/formbuilder",
+    "name": "cors/formbuilder",
     "type": "pimcore-bundle",
     "license": "GPL-3.0-or-later",
     "description": "Pimcore FormBuilder - create forms easily!",
     "keywords": ["pimcore", "formbuilder"],
-    "homepage": "https://github.com/dachcom-digital/pimcore-formbuilder",
+    "homepage": "https://github.com/cors-gmbh/pimcore-formbuilder",
     "authors": [
         {
             "name": "DACHCOM.DIGITAL Stefan Hagspiel",
