@@ -30,6 +30,9 @@
             ]
         }
     },
+    "replace": {
+        "dachcom-digital/formbuilder":"4.*"
+    },
     "require": {
         "pimcore/pimcore": "^10.1",
         "doctrine/orm": "^2.7"
